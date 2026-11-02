@@ -1,5 +1,9 @@
 <div align="center">
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TreeSizeSoft/TreeSizeSoft/main/treesize-logo.png" width="72" alt="TreeSize">
+</p>
+
 # TreeSize Free
 
 ### See what is taking up space on your Windows PC
@@ -8,14 +12,16 @@
   <img src="https://img.shields.io/badge/platform-Windows-2563eb?style=flat-square&logo=windows&logoColor=white" alt="Windows">
   &nbsp;
   <img src="https://img.shields.io/badge/TreeSize%20Free-4.8.1-16a36a?style=flat-square" alt="TreeSize Free 4.8.1">
-  &nbsp;
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/package-original%20installer%20in%20ZIP-334155?style=flat-square" alt="Original installer in ZIP">
 </p>
 
 **TreeSize Free by JAM Software.**
 
 <p align="center">
-  <a href="https://github.com/TreeSizeSoft/treesize-download/releases/latest/download/TreeSizeFree-4.8.1-Windows.zip"><img src="https://img.shields.io/badge/Download-Windows%20ZIP-16865b?style=for-the-badge&logo=windows&logoColor=white" alt="Download for Windows"></a>
+  <a href="https://github.com/TreeSizeSoft/treesize-download/releases/latest/download/TreeSizeFree-4.8.1-Windows.zip"><img src="https://img.shields.io/badge/Download-Windows%20ZIP-16865b?style=for-the-badge&logo=windows&logoColor=white&colorA=16865b&colorB=16865b" alt="Download for Windows"></a>
 </p>
 
 <p align="center">
